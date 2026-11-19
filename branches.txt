@@ -1,0 +1,24 @@
+Branches 
+-------------
+
+  remotes/origin/Add-Git
+  remotes/origin/Biswajit
+  remotes/origin/Boosting
+  remotes/origin/DS-Projects
+  remotes/origin/Dbscan
+  remotes/origin/Excel
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/Linear-Algebra
+  remotes/origin/Model-Optimization
+  remotes/origin/NLP_Project
+  remotes/origin/Prachi_dev
+  remotes/origin/Shubham-Tyagi--DS
+  remotes/origin/benbobyabraham
+  remotes/origin/feature_eng
+  remotes/origin/ghaiyur/DNN-MNISTandTransfer
+  remotes/origin/ghaiyur/python-ds-upgrades
+  remotes/origin/master
+  remotes/origin/model_deployment
+  remotes/origin/restructured_syllabus
+  remotes/origin/test
+
